@@ -1,0 +1,8 @@
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\EAN13 条码计算.exe
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\EAN13 条码计算.pdb
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Ean13Calculator.Properties.Resources.resources
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\EAN13 条码计算.exe
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\EAN13 条码计算.pdb
+D:\0thomas\Csharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
